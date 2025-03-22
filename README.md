@@ -6,16 +6,19 @@ This project is still in its early stages, and at the moment, we have just one t
 As the project expands, we will continue to share more information and updates. Stay tuned, and we encourage you to get involved now!
 
 Official Links:
-Twitter
 
-Website
 
-Telegram
+Official Links:
+CapLabs Twitter: https://x.com/CapLabs_
 
-Discord
+CapLabs Website: https://caplabs.io/
 
-Mirror
+Stablecoin Mafia Telegram: https://t.me/stablecoinmafia
 
-Discourse
+CapLabs Discord: https://discord.gg/a9TrVqGD
 
-Gitbook Overview
+CapLabs Mirror: https://mirror.xyz/0x83c21bb4Bf0EC116f5a1945AaeF847Fe3b321B32
+
+CapLabs Discourse: https://capcommunity.discourse.group/
+
+CapLabs Gitbook Overview: https://cap-labs.gitbook.io/cap-overview
